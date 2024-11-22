@@ -11,7 +11,8 @@ Perform regression testing on the website random number generation features.
 
 ## Technologies Used:
 
-Python: Programming language used for test scripting.
-Selenium WebDriver: Web automation tool used for browser interaction.
-unittest: Python testing framework used to structure and execute tests.
+Python: Programming language used for test scripting.<br>
+Selenium WebDriver: Web automation tool used for browser interaction.<br>
+unittest: Python testing framework used to structure and execute tests.<br>
 ChromeDriver: WebDriver used for automating Chrome browser (other browsers can also be used).
+
